@@ -1,0 +1,4 @@
+Projeto iniciado dia 23/01/2023 e finalizado no dia 06/02/2023.
+
+Duvidas em criação de def e uso de variavel global.
+Dificuldade em entender a linguagem e logica de programação.
