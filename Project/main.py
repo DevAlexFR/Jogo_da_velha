@@ -1,13 +1,13 @@
 import os
 import toml
-import Project.local as lc
-import Project.arcade as ac
+import local as lc
+import arcade as ac
 
 from tkinter import *
 
 def menu_principal():
     
-    colors = toml.load(r'C:\Users\alexs\Desktop\JOGOS\PYTHON\JOGO DA VELHA\colors.toml')
+    colors = toml.load(r'Jogo_da_velha\Project\colors.toml')
 
     #CRIANDO MENU
     menu = Tk()

@@ -1,13 +1,13 @@
 import os
 from tkinter import *
 import toml
-import Project.main as mn
+import main as mn
 from random import choice
 
 def arcade_modo():
     os.system('cls')
 
-    colors = toml.load(r'C:\Users\alexs\Desktop\JOGOS\PYTHON\JOGO DA VELHA\colors.toml')
+    colors = toml.load(r'Jogo_da_velha\Project\colors.toml')
 
     #CRIANDO JANELA PRINCIPAL
     janela = Tk()
